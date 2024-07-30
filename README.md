@@ -1,6 +1,10 @@
 # video_call_application
 
 A new Flutter project.
+## Images
+
+![This is an alt text.](/assets/Screenshot_1722325759.png "This is a sample image.")
+
 
 ## Getting Started
 
